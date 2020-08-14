@@ -20,6 +20,7 @@ import java.util.Map;
 
 @Configuration
 public class ShiroConfig {
+    private int num1;
     private String test;
     private String name;
 
